@@ -10,10 +10,10 @@
 
 Я начинающий Backend Developer <img src="https://goo.su/FCnl97" width="15"> из России.  
 
-- :telescope: Сейчас я работаю преподавателем по робототехники <img src="https://goo.su/mO9zg" width=15> и программированию.  
-- :seedling: Учусь в школе <img src="https://goo.su/sgY7VmT" width=15> от Сбера.
-- :zap: В свободное время играю в футбол:soccer: и слушаю музыку:musical_note:.
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vberdnikoff)
+- :telescope:Сейчас я работаю преподавателем по робототехники <img src="https://goo.su/mO9zg" width=15> и программированию.  
+- :seedling:Учусь в школе <img src="https://goo.su/sgY7VmT" width=15> от Сбера.
+- :zap:В свободное время играю в футбол:soccer: и слушаю музыку:musical_note:.
+- :mailbox::Как со мной связаться [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vberdnikoff)
 
 ---
 
