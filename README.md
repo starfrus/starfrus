@@ -17,9 +17,7 @@
 - :telescope: Сейчас я работаю преподавателем по робототехники <img src="https://goo.su/mO9zg" width=15> и программированию.  
 - :seedling: Учусь в школе <img src="https://goo.su/sgY7VmT" width=15> от Сбера.
 - :zap: В свободное время играю в футбол:soccer: и слушаю музыку:musical_note:.
-- :mailbox:How to reach me: <a href="t.me/vberdnikoff">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vberdnikoff)
 
 ---
 
