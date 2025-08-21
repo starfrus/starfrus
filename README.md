@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFtajVoYWNxb2RqZGRiZWJndHVpdXlibmI4eGtrOWgwZnN5NzZvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/UAlc4DI5LTAAAAAC/bart-bartsimpson.gif" width="300"/>
 </div>
 
 ---
