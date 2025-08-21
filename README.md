@@ -4,7 +4,7 @@
 </div>
 
 
-[![Барт Симпсон пишет код](https://images.icon-icons.com/2429/PNG/512/telegram_logo_icon_147228.png)](https://github.com/my-golang-project)
+[![Барт Симпсон пишет код](https://icon-icons.com/ru/значок/телеграмма/104164)](https://github.com/my-golang-project)
 
 
 
