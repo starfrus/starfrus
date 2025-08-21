@@ -4,7 +4,9 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logoColor=%230088CC" alt="Telegram Badge"/>
+  <a href="https://t.me/vberdnikoff">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logoColor=%230088CC" alt="Telegram Badge"/>
+  </a>
 </div>
 
 
