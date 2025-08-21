@@ -3,9 +3,11 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFtajVoYWNxb2RqZGRiZWJndHVpdXlibmI4eGtrOWgwZnN5NzZvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.gif" width="100"/>
 </div>
 
-
-[![Барт Симпсон пишет код](https://icon-icons.com/ru/значок/телеграмма/104164)](https://github.com/my-golang-project)
-
+<div id="badges">
+  <img src="https://img.shields.io/badge/Telegram-blue" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 
 ### 👋 Привет! Меня зовут Бердников Владислав
