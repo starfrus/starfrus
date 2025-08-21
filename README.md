@@ -3,8 +3,11 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFtajVoYWNxb2RqZGRiZWJndHVpdXlibmI4eGtrOWgwZnN5NzZvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.gif" width="100"/>
 </div>
 
-[![Ссылка на Телеграмм]([https://i.imgur.com/abc123.jpg](https://uk-chepetsk.ru/img/tg-logo.png))]([https://github.com/my-golang-project)
-](https://t.me/vberdnikoff)
+
+[![Барт Симпсон пишет код](https://i.imgur.com/abc123.jpg)](https://github.com/my-golang-project)
+
+
+
 ### 👋 Привет! Меня зовут Бердников Владислав
 
 **🚀 Стажер / Junior-разработчик на Go (Golang)** 
