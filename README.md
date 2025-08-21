@@ -1,10 +1,5 @@
-
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFtajVoYWNxb2RqZGRiZWJndHVpdXlibmI4eGtrOWgwZnN5NzZvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.gif" width="100"/>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -19,7 +14,7 @@
 
 **В свободное время играю в футбол, читаю книги, прогуливаюсь в парках**
 
-:mailbox::**Как со мной связаться**      [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vberdnikoff)
+:mailbox::**Как со мной связаться**[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vberdnikoff)
 
 ---
 
