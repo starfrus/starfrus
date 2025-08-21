@@ -4,7 +4,7 @@
 </div>
 
 
-[![Барт Симпсон пишет код](https://i.imgur.com/abc123.jpg)](https://github.com/my-golang-project)
+[![Барт Симпсон пишет код](https://static.insales-cdn.com/files/1/4963/35631971/original/1680010407_pushinka-top-p-dvizhushchiesya-avatarki-v-telegram-instag-43_a51795241337a6d25eccebd3.png)](https://github.com/my-golang-project)
 
 
 
