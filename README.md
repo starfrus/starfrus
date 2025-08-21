@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFtajVoYWNxb2RqZGRiZWJndHVpdXlibmI4eGtrOWgwZnN5NzZvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.gif)" width="100"/>
+</div>
+
+
+
+
 ### 👋 Привет! Меня зовут Бердников Владислав
 
 **🚀 Стажер / Junior-разработчик на Go (Golang)** 
