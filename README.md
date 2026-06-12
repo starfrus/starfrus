@@ -69,12 +69,16 @@
 
 <div align="left">
   <a href="https://t.me/vberdnikoff" target="_blank">
-    <img src="https://img.icons8.ru/?size=96&id=jZ1z64hEYYLW&format=png" height=50 alt="telegram logo"  />
+    <img src="https://img.icons8.ru/?size=96&id=jZ1z64hEYYLW&format=png" height=48 alt="telegram"/>
   </a>
   <a href="https://vk.com/vberdnikoff" target="_blank">
-    <img src="https://img.icons8.ru/?size=96&id=ggovGWI16G39&format=png" height=50 alt="vk logo"  />
+    <img src="https://img.icons8.ru/?size=96&id=ggovGWI16G39&format=png" height=48 alt="vk"/>
+  </a>
+  <a href="https://vk.com/vberdnikoff" target="_blank">
+    <img src="https://img.icons8.ru/?size=96&id=ggovGWI16G39&format=png" height=48 alt="vk"/>
   </a>
 </div>
+
 
 ###
 
