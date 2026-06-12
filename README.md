@@ -69,7 +69,7 @@
 
 <div align="left">
   <a href="https://t.me/vberdnikoff" target="_blank">
-    <img src="https://img.icons8.ru/?size=200&id=jZ1z64hEYYLW&format=png" alt="telegram logo"  />
+    <img src="https://img.icons8.ru/?size=96&id=jZ1z64hEYYLW&format=png" alt="telegram logo"  />
   </a>
 </div>
 
