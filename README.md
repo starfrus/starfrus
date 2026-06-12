@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://media.gifdb.com/i-m-coding-machine-animation-c85t0so5hpi45qw5.gif"/>
+  <img height="300" width="600" src="https://gifdb.com/images/high/i-m-coding-machine-animation-c85t0so5hpi45qw5.webp"/>
 </div>
 
 ###
