@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAd/piza-ninjas-pizzaninjas.gif"/>
+  <img height="300" width="600" src="https://media.gifdb.com/i-m-coding-machine-animation-c85t0so5hpi45qw5.gif"/>
 </div>
 
 ###
