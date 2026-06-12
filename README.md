@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://gifdb.com/images/high/i-m-coding-machine-animation-c85t0so5hpi45qw5.webp"/>
+  <img height="300" width="400" src="https://gifdb.com/images/high/i-m-coding-machine-animation-c85t0so5hpi45qw5.webp"/>
 </div>
 
 ###
@@ -76,12 +76,6 @@
 <div align="left">
   <a href="https://vk.com/vberdnikoff" target="_blank">
     <img src="https://img.icons8.ru/?size=96&id=ggovGWI16G39&format=png" height=48 alt="vk logo"/>
-  </a>
-</div>
-
-<div align="left">
-  <a href="vlad.berdnikov.97@mail.com" target="_blank">
-    <img src="https://img.icons8.ru/doodle/48/apple-mail.png" height=48 alt="mail logo"/>
   </a>
 </div>
 
