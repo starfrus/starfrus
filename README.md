@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
@@ -42,12 +42,11 @@
 
 <div align="left">
   
-  <a href="https://t.me/vberdnikoff" target="_blank">
-    <img src="https://img.icons8.ru/?size=96&id=jZ1z64hEYYLW&format=png" height=48 alt="telegram"/>
+  <a href="https://t.me/vberdnikoff" target="blank">
+    <img src="https://img.icons8.ru/?size=96&id=jZ1z64hEYYLW&format=png" height=40 alt="telegram logo"/>
   </a>
-
-  <a href="https://vk.com/vberdnikoff" target="_blank">
-    <img src="https://img.icons8.ru/?size=96&id=ggovGWI16G39&format=png" height=48 alt="vk logo"/>
+  <a href="https://vk.com/vberdnikoff" target="blank">
+    <img src="https://img.icons8.ru/?size=96&id=ggovGWI16G39&format=png" height=40 alt="vk logo"/>
   </a>
 
 </div>
