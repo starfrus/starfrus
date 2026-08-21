@@ -41,15 +41,15 @@
 ###
 
 <div align="left">
+  
   <a href="https://t.me/vberdnikoff" target="_blank">
     <img src="https://img.icons8.ru/?size=96&id=jZ1z64hEYYLW&format=png" height=48 alt="telegram"/>
   </a>
-</div>
 
-<div align="left">
   <a href="https://vk.com/vberdnikoff" target="_blank">
     <img src="https://img.icons8.ru/?size=96&id=ggovGWI16G39&format=png" height=48 alt="vk logo"/>
   </a>
+
 </div>
 
 ###
