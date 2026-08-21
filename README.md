@@ -40,7 +40,7 @@
 
 ###
 
-<div align="left">
+<div>
   
   <a href="https://t.me/vberdnikoff" target="blank">
     <img src="https://img.icons8.ru/?size=96&id=jZ1z64hEYYLW&format=png" height=40 alt="telegram logo"/>
