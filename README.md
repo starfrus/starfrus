@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="400" src="https://tenor.com/bXCeO.gif"/>
+  <img height="300" width="400" src="https://media1.tenor.com/m/Vwu7Z84OwwgAAAAd/lego-hacking-hacker.gif"/>
 </div>
 
 ###
