@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="center">
-  <img height="300" width="400" src="https://tenor.com/ru/view/lego-hacking-hacker-lego-hacker-thejumifilm-lego-stop-motion-gif-26562328"/>
-</div>
+<div class="tenor-gif-embed" data-postid="26562328" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/lego-hacking-hacker-lego-hacker-thejumifilm-lego-stop-motion-gif-26562328">Lego Hacking Hacker GIF</a>from <a href="https://tenor.com/search/lego+hacking-gifs">Lego Hacking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
