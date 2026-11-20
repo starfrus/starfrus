@@ -1,6 +1,8 @@
 <br clear="both">
 
-<div class="tenor-gif-embed" data-postid="26562328" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/lego-hacking-hacker-lego-hacker-thejumifilm-lego-stop-motion-gif-26562328">Lego Hacking Hacker GIF</a>from <a href="https://tenor.com/search/lego+hacking-gifs">Lego Hacking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/Vwu7Z84OwwgAAAAd/lego-hacking-hacker.gif"/>
+</div>
 
 ###
 
