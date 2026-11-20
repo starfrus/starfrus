@@ -1,7 +1,9 @@
 <br clear="both">
 
 
-![Lego hacker](https://media1.tenor.com/m/Vwu7Z84OwwgAAAAd/lego-hacking-hacker.gif)
+<div align="center">
+  <img src="./lego-hacking-hacker.gif" alt="Lego hacker" width="400">
+</div>
 
 
 ###
